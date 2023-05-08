@@ -16,7 +16,7 @@ export default function AdministracionPage() {
               <div className="card">
                 <div className="card-header">
                   <h4>
-                    <b>SAC</b>
+                    <b>SAC T</b>
                   </h4>
                 </div>
                 <div className="card-body">
